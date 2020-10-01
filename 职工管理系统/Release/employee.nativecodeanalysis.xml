@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>H:\vs repostwop\职工管理系统\职工管理系统\</FILEPATH>
+      <FILENAME>worker.h</FILENAME>
+      <LINE>23</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Worker::m_Id。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Worker::{ctor}</FUNCTION>
+    <DECORATED>??0Worker@@QAE@XZ</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Worker::m_Id</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>H:\vs repostwop\职工管理系统\职工管理系统\</FILEPATH>
+      <FILENAME>worker.h</FILENAME>
+      <LINE>23</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Worker::m_DeptId。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Worker::{ctor}</FUNCTION>
+    <DECORATED>??0Worker@@QAE@XZ</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Worker::m_DeptId</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
